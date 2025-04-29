@@ -24,7 +24,7 @@ from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 # In[3]:
 
 
-df=pd.read_csv('JupyterProjects/All Data Science/NIMS_like_fatigue_dataset.csv')
+df = pd.read_csv('NIMS_like_fatigue_dataset.csv')
 
 
 # In[4]:
